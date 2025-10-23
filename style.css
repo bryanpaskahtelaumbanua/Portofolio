@@ -212,6 +212,31 @@ section {
     font-weight: 500;
 }
 
+.projects-info {
+    width: 25vw;
+    height: 50vh;
+    background-color: rgb(122, 122, 122);
+    position: relative;
+    left: 20%;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.projects-info img {
+    width: 20vw;
+    height: 20vh;
+    position: relative;
+    left: 0%;
+    border-radius: 10%;
+    top: 3%;
+    box-shadow: 1px 2px 3px #03dac6;
+}
+
+.project-info h1 {
+    position: relative;
+    top: 50%;
+}
+
 
 .projects-grid {
     display: grid;
